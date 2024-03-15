@@ -57,3 +57,30 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/ef1c179d-8097-4f34-8dc3-0
 
 20. AWS Serverless Observability Workshop
 https://catalog.us-east-1.prod.workshops.aws/workshops/b3fc5f7a-ff34-41fa-a9f2-4cd9e093e6ff/en-US
+
+21. AWS Serverless Developer Experience
+https://catalog.workshops.aws/serverless-developer-experience/en-US
+
+22. AWS CloudFormation Workshop
+https://catalog.workshops.aws/cfn101/en-US
+
+23. AMAZON DYNAMODB LABS
+https://amazon-dynamodb-labs.workshop.aws/
+
+24. Networking Immersion Day
+https://catalog.workshops.aws/networking/en-US
+
+25. Identity Round Robin
+https://identity-round-robin.awssecworkshops.com/
+
+26. Encryption On AWS - Tutorial
+https://catalog.us-east-1.prod.workshops.aws/workshops/aad9ff1e-b607-45bc-893f-121ea5224f24/en-US
+
+27. Scaling your encryption at rest capabilities with AWS KMS
+https://catalog.us-east-1.prod.workshops.aws/workshops/05f16f1a-0bbf-45a7-a304-4fcd7fca3d1f/en-US
+
+28. Building SaaS applications on Amazon EKS using GitOps
+https://catalog.workshops.aws/eks-saas-gitops/en-US
+
+29. EKS Blueprints for Terraform
+https://catalog.us-east-1.prod.workshops.aws/workshops/d2b662ae-e9d7-4b31-b68b-64ade19d5dcc/en-US
