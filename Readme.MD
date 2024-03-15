@@ -30,3 +30,30 @@ https://catalog.workshops.aws/saas-microservices/en-US
 
 11. EKS Workshop
 https://www.eksworkshop.com/
+
+12. Security for Developers
+https://catalog.workshops.aws/sec4devs/en-US
+
+13. IAM policy evaluation workshop
+https://catalog.us-east-1.prod.workshops.aws/workshops/6dc3124a-6bd4-46eb-b5c4-be438a82ba3d/en-US
+
+14. Databases for Developers
+https://catalog.workshops.aws/db4devs/en-US
+
+15. DISASTER RECOVERY ON AWS
+https://disaster-recovery.workshop.aws/en/
+
+16. One Observability Workshop
+https://catalog.workshops.aws/observability/en-US
+
+17. Amazon EKS Terraform Workshop
+https://catalog.us-east-1.prod.workshops.aws/workshops/afee4679-89af-408b-8108-44f5b1065cc7/en-US
+
+18. Code Quality Workshop
+https://catalog.us-east-1.prod.workshops.aws/workshops/fa518794-acd4-4178-80d3-97fa62f9deff/en-US
+
+19. AWS CI/CD Workshop
+https://catalog.us-east-1.prod.workshops.aws/workshops/ef1c179d-8097-4f34-8dc3-0e9eb381b6eb/en-US
+
+20. AWS Serverless Observability Workshop
+https://catalog.us-east-1.prod.workshops.aws/workshops/b3fc5f7a-ff34-41fa-a9f2-4cd9e093e6ff/en-US
