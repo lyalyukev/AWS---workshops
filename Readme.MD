@@ -79,7 +79,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/aad9ff1e-b607-45bc-893f-1
 27. Scaling your encryption at rest capabilities with AWS KMS
 https://catalog.us-east-1.prod.workshops.aws/workshops/05f16f1a-0bbf-45a7-a304-4fcd7fca3d1f/en-US
 
-28. Building SaaS applications on Amazon EKS using GitOps
+28. Building SaaS applications on Amazon EKS using GitOps !!!
 https://catalog.workshops.aws/eks-saas-gitops/en-US
 
 29. EKS Blueprints for Terraform
